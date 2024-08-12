@@ -1,0 +1,7 @@
+dotenv
+requests
+oauth2client
+rest_framework
+google-auth-httplib2
+google-auth-oauthlib
+google-api-python-client
